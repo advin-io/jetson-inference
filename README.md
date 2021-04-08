@@ -15,7 +15,7 @@ It started with me looking for a cost effective to track my location in the hous
 ## The Hardware
 
 I first heard of the <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/product-development/#shop-all">Jetson Nano</a> in 2019 but couldn't find a cost-effective camera to add to my network until I found:
-<a href="https://wyze.com/wyze-cam.html">the $24 Wyze Cam.<img src=https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/wyzecam.png></a>
+<a href="https://wyze.com/wyze-cam.html">the $24 Wyze Cam.<img src=https://github.com/advin-io/jetson-inference/raw/master/docs/images/wyzecam.png></a>
 
 ## The Setup
 
