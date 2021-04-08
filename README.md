@@ -1,4 +1,5 @@
 <img src="https://github.com/advin-io/jetson-inference/raw/master/docs/images/inference-stream.png" width="100%">
+
 # WyzeCam Inference
 
 Wireless real-time inference using NVIDIA Jetson and WyzeCam v2 over RTSP.
